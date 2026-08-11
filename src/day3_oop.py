@@ -9,7 +9,7 @@ class Transaction:
         amount: int,
         status: str = "SUCCESS",
     ) -> None:
-        self.text_id = tx_id
+        self.tx_id = tx_id
         self.product = product
         self.category = category
         self.amount = amount
@@ -29,7 +29,7 @@ class TransactionManager:
 
     def __init__(self) -> None:
         # Menyimpan List Kosong
-        self.transactions: list(Transaction) = []
+        self.transactions: list[Transaction] = []
 
     def add_transaction(self, tx: Transaction) -> None:
         self.transactions.append(tx)

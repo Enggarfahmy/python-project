@@ -1,0 +1,30 @@
+[
+  {
+    "tx_id": 101,
+    "product": "Monitor 4K",
+    "category": "elektronik",
+    "amount": 4500000.0,
+    "status": "SUCCESS"
+  },
+  {
+    "tx_id": 102,
+    "product": "Keyboard Mechanical",
+    "category": "elektronik",
+    "amount": 850000.0,
+    "status": "SUCCESS"
+  },
+  {
+    "tx_id": 103,
+    "product": "Kemeja Polos",
+    "category": "pakaian",
+    "amount": 150000.0,
+    "status": "FAILED"
+  },
+  {
+    "tx_id": 104,
+    "product": "Sepatu Lari",
+    "category": "pakaian",
+    "amount": 650000.0,
+    "status": "SUCCESS"
+  }
+]

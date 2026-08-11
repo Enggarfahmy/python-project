@@ -1,0 +1,4 @@
+tx_id,product,category,amount,status
+101,Monitor 4K,elektronik,4500000.0,SUCCESS
+102,Keyboard Mechanical,elektronik,850000.0,SUCCESS
+104,Sepatu Lari,pakaian,650000.0,SUCCESS
