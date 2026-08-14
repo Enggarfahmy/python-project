@@ -1,0 +1,8 @@
+[
+  {"tx_id": 201, "product": "Laptop Gaming", "category": "elektronik", "amount": 18000000, "status": "SUCCESS", "city": "Jakarta"},
+  {"tx_id": 202, "product": "Mouse Wireless", "category": "elektronik", "amount": 300000, "status": "SUCCESS", "city": "Surabaya"},
+  {"tx_id": 203, "product": "Meja Belajar", "category": "mebel", "amount": 1200000, "status": "FAILED", "city": "Bandung"},
+  {"tx_id": 204, "product": "Kursi Kerja", "category": "mebel", "amount": 2500000, "status": "SUCCESS", "city": "Jakarta"},
+  {"tx_id": 205, "product": "Keyboard Mechanical", "category": "elektronik", "amount": 900000, "status": "SUCCESS", "city": "Surabaya"},
+  {"tx_id": 206, "product": "Lampung Kopi 1kg", "category": "makanan", "amount": 150000, "status": "SUCCESS", "city": "Jakarta"}
+]

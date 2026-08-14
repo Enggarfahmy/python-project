@@ -1,0 +1,6 @@
+tx_id,product,category,amount,status,city
+201,Laptop Gaming,elektronik,18000000,SUCCESS,Jakarta
+202,Mouse Wireless,elektronik,300000,SUCCESS,Surabaya
+204,Kursi Kerja,mebel,2500000,SUCCESS,Jakarta
+205,Keyboard Mechanical,elektronik,900000,SUCCESS,Surabaya
+206,Lampung Kopi 1kg,makanan,150000,SUCCESS,Jakarta
