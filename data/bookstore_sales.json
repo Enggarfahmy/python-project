@@ -1,0 +1,10 @@
+[
+  {"order_id": "ORD001", "item_name": "Atomic Habits", "category": "buku", "price": 120000, "qty": 2, "customer_city": "Jakarta", "payment_status": "PAID"},
+  {"order_id": "ORD002", "item_name": "Pulpen Gel 0.5", "category": "alat_tulis", "price": 15000, "qty": 10, "customer_city": "Surabaya", "payment_status": "PAID"},
+  {"order_id": "ORD003", "item_name": "Filosofi Teras", "category": "buku", "price": 98000, "qty": 1, "customer_city": "Bandung", "payment_status": "CANCELLED"},
+  {"order_id": "ORD004", "item_name": "Buku Catatan Grid", "category": "alat_tulis", "price": 45000, "qty": 3, "customer_city": "Jakarta", "payment_status": "PAID"},
+  {"order_id": "ORD005", "item_name": "Kalkulator Ilmiah", "category": "elektronik", "price": 250000, "qty": 1, "customer_city": "Semarang", "payment_status": "PAID"},
+  {"order_id": "ORD006", "item_name": "Clean Code", "category": "buku", "price": 350000, "qty": 2, "customer_city": "Jakarta", "payment_status": "PAID"},
+  {"order_id": "ORD007", "item_name": "Pensil 2B Box", "category": "alat_tulis", "price": 30000, "qty": 5, "customer_city": "Surabaya", "payment_status": "REFUNDED"},
+  {"order_id": "ORD008", "item_name": "Python Crash Course", "category": "buku", "price": 280000, "qty": 1, "customer_city": "Bandung", "payment_status": "PAID"}
+]

@@ -1,0 +1,7 @@
+order_id,item_name,category,price,qty,customer_city,payment_status,total_price
+ORD001,Atomic Habits,buku,120000,2,Jakarta,PAID,240000
+ORD002,Pulpen Gel 0.5,alat_tulis,15000,10,Surabaya,PAID,150000
+ORD004,Buku Catatan Grid,alat_tulis,45000,3,Jakarta,PAID,135000
+ORD005,Kalkulator Ilmiah,elektronik,250000,1,Semarang,PAID,250000
+ORD006,Clean Code,buku,350000,2,Jakarta,PAID,700000
+ORD008,Python Crash Course,buku,280000,1,Bandung,PAID,280000
